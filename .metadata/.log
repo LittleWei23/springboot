@@ -1,0 +1,633 @@
+!SESSION 2021-06-28 09:35:42.016 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-28 09:37:21.162
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-28 09:37:21.162
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@40db6136,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ced0537,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-28 09:37:30.309
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ZaiweiZhang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-06-28 09:40:55.482
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:40:57.225
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:40:57.426
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:40:58.109
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:41:41.593
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:41.613
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:41.613
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@eef42c0[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:41.632
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:42.003
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.169
+!MESSAGE Boot LS startup time from start to initialized: 8526ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.321
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zUwZpuIKisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.325
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.329
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.330
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.331
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.332
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zUwZpuIK => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.340
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.345
+!MESSAGE buffering callback sts4.classpath.zUwZpuIK FirstPro false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.347
+!MESSAGE executing callback sts4.classpath.zUwZpuIK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 09:41:50.825
+!MESSAGE executing callback sts4.classpath.zUwZpuIK SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2021-06-28 09:43:31.137
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-06-28 09:43:40.637
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:43:41.241
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:54:30.566
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:54:32.981
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:54:34.213
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:59:11.455
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 09:59:12.043
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:00:37.404
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:00:38.026
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:02:31.105
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:02:31.729
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:05:37.013
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:05:39.547
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:06:14.293
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:06:14.883
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:11:35.931
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:11:36.533
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:20:16.413
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:20:16.991
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:24:09.075
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:24:11.269
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:21.641
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:21.683
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:21.720
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:26.200
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:26.251
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:26.436
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:26.485
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.507
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.508
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.510
+!MESSAGE buffering callback sts4.classpath.zUwZpuIK MyWebApp false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.510
+!MESSAGE executing callback sts4.classpath.zUwZpuIK 1 batched events
+
+!ENTRY Activator 1 0 2021-06-28 10:26:26.545
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.568
+!MESSAGE executing callback sts4.classpath.zUwZpuIK SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-28 10:26:26.942
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.944
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.949
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.954
+!MESSAGE buffering callback sts4.classpath.zUwZpuIK MyWebApp false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.955
+!MESSAGE executing callback sts4.classpath.zUwZpuIK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:26.988
+!MESSAGE executing callback sts4.classpath.zUwZpuIK SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-28 10:26:27.158
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:27.212
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:27.216
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:27.263
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:27.286
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:28.058
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:28.060
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:28.722
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:28.725
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:28.730
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:28.739
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:28.745
+!MESSAGE buffering callback sts4.classpath.zUwZpuIK MyWebApp false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:28.746
+!MESSAGE executing callback sts4.classpath.zUwZpuIK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.002
+!MESSAGE executing callback sts4.classpath.zUwZpuIK SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.004
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.013
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.020
+!MESSAGE buffering callback sts4.classpath.zUwZpuIK MyWebApp false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.021
+!MESSAGE executing callback sts4.classpath.zUwZpuIK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.122
+!MESSAGE executing callback sts4.classpath.zUwZpuIK SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-28 10:26:29.125
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:29.144
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.634
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.641
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.648
+!MESSAGE buffering callback sts4.classpath.zUwZpuIK MyWebApp false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.649
+!MESSAGE executing callback sts4.classpath.zUwZpuIK 1 batched events
+
+!ENTRY Activator 1 0 2021-06-28 10:26:29.785
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:29.806
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:29.861
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:29.864
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:29.931
+!MESSAGE executing callback sts4.classpath.zUwZpuIK SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-28 10:26:30.168
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:30.169
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:32.124
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:32.125
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:32.132
+!MESSAGE classpath=66 entries
+
+!ENTRY Activator 1 0 2021-06-28 10:26:32.135
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:32.138
+!MESSAGE buffering callback sts4.classpath.zUwZpuIK MyWebApp false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:32.139
+!MESSAGE executing callback sts4.classpath.zUwZpuIK 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:26:32.185
+!MESSAGE executing callback sts4.classpath.zUwZpuIK SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-06-28 10:26:32.310
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY Activator 1 0 2021-06-28 10:26:32.315
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:27:18.476
+!MESSAGE Has main method computation for project 'FirstPro'
+
+!ENTRY Activator 1 0 2021-06-28 10:27:18.477
+!MESSAGE Has main method computation for project 'MyWebApp'
+
+!ENTRY org.eclipse.help.base 2 0 2021-06-28 10:34:02.619
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.server.ui.doc.user_1.1.600.v201901310132 [482]'. The index should be rebuilt with Lucene 8.4.1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:43:04.076
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zUwZpuIK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:43:04.077
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.zUwZpuIK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:43:04.077
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:43:04.078
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.zUwZpuIK => OK
+!SESSION 2021-06-28 10:51:56.330 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-06-28 10:52:43.419
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-28 10:52:43.419
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6956eb58,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7fff419d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:52:55.620
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:52:55.621
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7b66a2ab[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:52:55.639
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:52:55.986
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-06-28 10:52:57.473
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ZaiweiZhang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-06-28 10:53:02.464
+!MESSAGE Exception while reading last build state for: P/FirstPro
+!STACK 1
+org.eclipse.core.runtime.CoreException: Error reading last build state for project FirstPro
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4161)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getLastBuiltState(JavaModelManager.java:2287)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.getLastState(JavaBuilder.java:449)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:189)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.internal.compiler.util.JrtFileSystem.walkModuleImage(org.eclipse.jdt.internal.compiler.util.JRTUtil$JrtFileVisitor, int)" because the return value of "org.eclipse.jdt.internal.compiler.util.JRTUtil.getJrtSystem(java.io.File, String)" is null
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.walkModuleImage(JRTUtil.java:173)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.loadModules(ClasspathJrt.java:132)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.<init>(ClasspathJrt.java:69)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:145)
+	at org.eclipse.jdt.internal.core.builder.State.readBinaryLocations(State.java:369)
+	at org.eclipse.jdt.internal.core.builder.State.read(State.java:260)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.readState(JavaBuilder.java:161)
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4153)
+	... 15 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 2 2021-06-28 10:53:02.465
+!MESSAGE Error reading last build state for project FirstPro
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.internal.compiler.util.JrtFileSystem.walkModuleImage(org.eclipse.jdt.internal.compiler.util.JRTUtil$JrtFileVisitor, int)" because the return value of "org.eclipse.jdt.internal.compiler.util.JRTUtil.getJrtSystem(java.io.File, String)" is null
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.walkModuleImage(JRTUtil.java:173)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.loadModules(ClasspathJrt.java:132)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.<init>(ClasspathJrt.java:69)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:145)
+	at org.eclipse.jdt.internal.core.builder.State.readBinaryLocations(State.java:369)
+	at org.eclipse.jdt.internal.core.builder.State.read(State.java:260)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.readState(JavaBuilder.java:161)
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4153)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getLastBuiltState(JavaModelManager.java:2287)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.getLastState(JavaBuilder.java:449)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:189)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:05.165
+!MESSAGE Boot LS startup time from start to initialized: 9509ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.603
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cIgyWRyqisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.608
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.612
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.614
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.614
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.615
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.cIgyWRyq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.627
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.632
+!MESSAGE buffering callback sts4.classpath.cIgyWRyq MyWebApp false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.634
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.640
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.645
+!MESSAGE buffering callback sts4.classpath.cIgyWRyq FirstPro false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:06.646
+!MESSAGE executing callback sts4.classpath.cIgyWRyq 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 10:53:07.845
+!MESSAGE executing callback sts4.classpath.cIgyWRyq SUCCESS [done]
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-06-28 10:53:16.558
+!MESSAGE Exception while reading last build state for: P/MyWebApp
+!STACK 1
+org.eclipse.core.runtime.CoreException: Error reading last build state for project MyWebApp
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4161)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getLastBuiltState(JavaModelManager.java:2287)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.getLastState(JavaBuilder.java:449)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:189)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.internal.compiler.util.JrtFileSystem.walkModuleImage(org.eclipse.jdt.internal.compiler.util.JRTUtil$JrtFileVisitor, int)" because the return value of "org.eclipse.jdt.internal.compiler.util.JRTUtil.getJrtSystem(java.io.File, String)" is null
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.walkModuleImage(JRTUtil.java:173)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.loadModules(ClasspathJrt.java:132)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.<init>(ClasspathJrt.java:69)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:145)
+	at org.eclipse.jdt.internal.core.builder.State.readBinaryLocations(State.java:369)
+	at org.eclipse.jdt.internal.core.builder.State.read(State.java:260)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.readState(JavaBuilder.java:161)
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4153)
+	... 15 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 2 2021-06-28 10:53:16.559
+!MESSAGE Error reading last build state for project MyWebApp
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.internal.compiler.util.JrtFileSystem.walkModuleImage(org.eclipse.jdt.internal.compiler.util.JRTUtil$JrtFileVisitor, int)" because the return value of "org.eclipse.jdt.internal.compiler.util.JRTUtil.getJrtSystem(java.io.File, String)" is null
+	at org.eclipse.jdt.internal.compiler.util.JRTUtil.walkModuleImage(JRTUtil.java:173)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.loadModules(ClasspathJrt.java:132)
+	at org.eclipse.jdt.internal.core.builder.ClasspathJrt.<init>(ClasspathJrt.java:69)
+	at org.eclipse.jdt.internal.core.builder.ClasspathLocation.forJrtSystem(ClasspathLocation.java:145)
+	at org.eclipse.jdt.internal.core.builder.State.readBinaryLocations(State.java:369)
+	at org.eclipse.jdt.internal.core.builder.State.read(State.java:260)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.readState(JavaBuilder.java:161)
+	at org.eclipse.jdt.internal.core.JavaModelManager.readState(JavaModelManager.java:4153)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getLastBuiltState(JavaModelManager.java:2287)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.getLastState(JavaBuilder.java:449)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:189)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui 2 2 2021-06-28 10:53:23.946
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:43.167
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:43.177
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:43.184
+!MESSAGE buffering callback sts4.classpath.cIgyWRyq MyWebApp false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:43.186
+!MESSAGE executing callback sts4.classpath.cIgyWRyq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:43.226
+!MESSAGE executing callback sts4.classpath.cIgyWRyq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:48.898
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:48.906
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:48.912
+!MESSAGE buffering callback sts4.classpath.cIgyWRyq MyWebApp false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:48.913
+!MESSAGE executing callback sts4.classpath.cIgyWRyq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 11:11:48.949
+!MESSAGE executing callback sts4.classpath.cIgyWRyq SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2021-06-28 11:37:46.819
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-28 11:37:46.819
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@78a30667,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@78ed174b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 19:50:52.496
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cIgyWRyq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 19:50:52.497
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.cIgyWRyq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 19:50:52.498
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-28 19:50:52.499
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.cIgyWRyq => OK
